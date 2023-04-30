@@ -7,8 +7,10 @@
  * places to add some flare.
  */
 
+ /* custom style */
 .notion {
-  --notion-max-width: 720px;
+  /* --notion-max-width: 720px; */
+  --notion-max-width: 920px;
   --notion-header-height: 54px;
 }
 
@@ -21,8 +23,10 @@
   line-height: 1.65;
 }
 
+/* custom style */
 .index-page {
-  --notion-max-width: 900px;
+  /* --notion-max-width: 900px; */
+  --notion-max-width: 1000px;
 }
 
 .notion-text {
@@ -136,8 +140,10 @@
   margin: 0.75em 0;
 }
 
+/* custom style */
 .notion-hr {
-  margin: 2em 0;
+  /* margin: 2em 0; */
+  margin: 0 0;
 }
 
 @media only screen and (max-width: 920px) {
